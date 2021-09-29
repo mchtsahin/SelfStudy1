@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of SelfStudy1 is to …
+The goal of SelfStudy1 is to create some function bla bla
 
 ## Installation
 
